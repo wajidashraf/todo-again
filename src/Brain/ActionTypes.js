@@ -1,0 +1,9 @@
+export const CLOSE_FORM = "CLOSE_FORM";
+export const ADD_FORM = "ADD_FORM";
+export const ADD_TASK = "ADD_TASK";
+export const ADD_AUTHOR = "ADD_AUTHOR";
+export const SELECT_AUTHOR = "SELECT_AUTHOR";
+export const SEARCH_QUERY = "SEARCH_QUERY";
+export const DELETE_QUERY = "DELETE_QUERY";
+export const DELETE_COMPLETED_TASK = "DELETE_COMPLETED_TASK";
+export const COMPLETE_TASK = "COMPLETE_TASK";
